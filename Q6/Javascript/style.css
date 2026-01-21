@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#bulb {
+  width: 100px;
+  height: 100px;
+  background: gray;
+  border-radius: 50%;
+  box-shadow: 0 0 30px gray;
+}
